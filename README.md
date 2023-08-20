@@ -10,4 +10,3 @@ Por isso não é nada mirabolante.
 
 Esses valores podem ser filtrados, através de RadioButton, em "Todas", "Concluídas" e "Pendentes" de acordo como foram marcadas pelo usuário.
 
-[image](https://github.com/Beatriz-Pereira/ToDoList/assets/64531513/cc7c9bed-ed29-4b43-af59-1b1caaf6f119)
